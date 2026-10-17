@@ -1,5 +1,7 @@
 # My Redis
 
+![tests](https://github.com/adityavdn/my-redis/actions/workflows/tests.yml/badge.svg)
+
 A Redis-compatible in-memory server built from scratch in Python, designed to speak the RESP protocol and support core Redis-style behaviour.
 
 ## Overview
